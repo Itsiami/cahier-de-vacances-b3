@@ -25,7 +25,7 @@ public class Submarine
     public static int Main(string[] args)
     {
         // Récupération du fichier
-        string filePath = @"C:\\Users\\itsia\\Documents\\GitHub\\Repo\\cahier-de-vacances-b3\\exercise\\week01\\c#\\Submarine.Tests\\submarine.txt";
+        string filePath = @"C://Users//itsia//Documents//GitHub//Repo//cahier-de-vacances-b3//exercise//week01//c#//Submarine.Tests//submarine.txt";
         StreamReader reader = new(filePath);
 
         string instruction;
