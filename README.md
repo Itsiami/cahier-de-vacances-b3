@@ -1,4 +1,6 @@
-# Cahier de Vacances B3
+# Cahier de Vacances B3 
+[![License](https://img.shields.io/github/license/coda-school/cahier-de-vacances-b3.svg)](https://github.com/coda-school/cahier-de-vacances-b3/?tab=MIT-1-ov-file#readme)
+
 Welcome to your **Cahier de Vacances** – a journey into a simulation unlike any other. 
 This project will challenge your logic, discipline, refactoring skills, and design thinking through weekly, hands-on coding challenges.
 
@@ -107,3 +109,5 @@ You can write them in a `reflect.md` file or a comment thread — your call.
 
 ## Missions
 - [Week 1 – Dive into the Matrix](exercise/week01/docs/MISSION.md)
+
+[![genaithics-H-1-HZ](https://github.com/Mathieu-genAI/genaithics/raw/main/img/genaithics_code_H-1-H_104x50.png)](https://github.com/Mathieu-genAI/genaithics?tab=readme-ov-file#the-genaithics-codes)
